@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProductCatalogue // Note: actual namespace depends on the project name.
+namespace ProductCatalogue 
 {
     internal class Program
     {
