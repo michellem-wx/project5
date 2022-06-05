@@ -10,9 +10,9 @@ namespace ProductCatalogue
     {
         // Properties of Product
         public double Price;
-        public string? ProductName;
-        public string? Brand;
-        public string? Colour;
+        public string ProductName;
+        public string Brand;
+        public string Colour;
 
 
         public virtual double CalculateTax()

@@ -1,0 +1,15 @@
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\bin\Debug\net6.0\ProductCatalogue.exe
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\bin\Debug\net6.0\ProductCatalogue.deps.json
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\bin\Debug\net6.0\ProductCatalogue.runtimeconfig.json
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\bin\Debug\net6.0\ProductCatalogue.dll
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\bin\Debug\net6.0\ProductCatalogue.pdb
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\obj\Debug\net6.0\ProductCatalogue.csproj.AssemblyReference.cache
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\obj\Debug\net6.0\ProductCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\obj\Debug\net6.0\ProductCatalogue.AssemblyInfoInputs.cache
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\obj\Debug\net6.0\ProductCatalogue.AssemblyInfo.cs
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\obj\Debug\net6.0\ProductCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\obj\Debug\net6.0\ProductCatalogue.dll
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\obj\Debug\net6.0\refint\ProductCatalogue.dll
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\obj\Debug\net6.0\ProductCatalogue.pdb
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\obj\Debug\net6.0\ProductCatalogue.genruntimeconfig.cache
+C:\Users\Michelle\Documents\Betelgeuse\project5\project5\ProductCatalogue\ProductCatalogue\obj\Debug\net6.0\ref\ProductCatalogue.dll

@@ -29,5 +29,7 @@ namespace ProductCatalogue
             return new Bag(productName, price, brand, colour, category);
 
         }
+
+
     }
 }

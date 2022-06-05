@@ -8,8 +8,12 @@ namespace ProductCatalogue
 {
     public class Shoe : Product
     {
+        public double Price { get;set; }
+        public string ProductName { get; set; }
+        public string Brand { get; set; }
+        public string Colour { get; set; }
         // Unique property to Shoe:
-        public int Size;
+        public int Size { get; set; }
 
         public Shoe(string productName, double price, string brand, string colour, int size)
         {

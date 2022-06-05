@@ -8,9 +8,13 @@ namespace ProductCatalogue
 {
     public class Bag : Product
     {
-        // Unique properties to Bag:
-        public string Category;
-        public double PriceGst;
+        public double Price { get; set; }
+        public string ProductName { get; set; }
+        public string Brand { get; set; }
+        public string Colour { get; set; }
+
+        // Unique properties to Bag 
+        public string Category { get; set; }
 
         public Bag(string productName, double price, string brand, string colour, string category)
         {
@@ -20,6 +24,7 @@ namespace ProductCatalogue
             Colour = colour;
             Category = category;
         }
+
 
         public override string ToString()
         {

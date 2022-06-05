@@ -17,10 +17,10 @@ namespace ProductCatalogue
         // Created a generic list to store data into 
         public List<T> DigitalCatalogue = new List<T>();
         
-        public Catalogue()
-        {
+        //public Catalogue()
+        //{
 
-        }
+        //}
 
         // Add a Product to a catalogue
         public void AddProduct(T productItem)
