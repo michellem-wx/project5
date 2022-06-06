@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Michelle\\Documents\\Betelgeuse\\project5\\project5\\ProductCatalogue\\ProductCatalogue\\ProductCatalogue.csproj": {}
+    "C:\\Users\\Michelle\\Documents\\Betelgeuse\\C\\Week 10\\project5\\ProductCatalogue\\ProductCatalogue\\ProductCatalogue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Michelle\\Documents\\Betelgeuse\\project5\\project5\\ProductCatalogue\\ProductCatalogue\\ProductCatalogue.csproj": {
+    "C:\\Users\\Michelle\\Documents\\Betelgeuse\\C\\Week 10\\project5\\ProductCatalogue\\ProductCatalogue\\ProductCatalogue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michelle\\Documents\\Betelgeuse\\project5\\project5\\ProductCatalogue\\ProductCatalogue\\ProductCatalogue.csproj",
+        "projectUniqueName": "C:\\Users\\Michelle\\Documents\\Betelgeuse\\C\\Week 10\\project5\\ProductCatalogue\\ProductCatalogue\\ProductCatalogue.csproj",
         "projectName": "ProductCatalogue",
-        "projectPath": "C:\\Users\\Michelle\\Documents\\Betelgeuse\\project5\\project5\\ProductCatalogue\\ProductCatalogue\\ProductCatalogue.csproj",
+        "projectPath": "C:\\Users\\Michelle\\Documents\\Betelgeuse\\C\\Week 10\\project5\\ProductCatalogue\\ProductCatalogue\\ProductCatalogue.csproj",
         "packagesPath": "C:\\Users\\Michelle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michelle\\Documents\\Betelgeuse\\project5\\project5\\ProductCatalogue\\ProductCatalogue\\obj\\",
+        "outputPath": "C:\\Users\\Michelle\\Documents\\Betelgeuse\\C\\Week 10\\project5\\ProductCatalogue\\ProductCatalogue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Michelle\\AppData\\Roaming\\NuGet\\NuGet.Config",
