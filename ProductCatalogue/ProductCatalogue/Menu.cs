@@ -9,7 +9,7 @@ namespace ProductCatalogue
     public class Menu
     {
 
-        // Q. how do i know this is a list
+        // Q. why do we add new lists here..
         Catalogue<Bag> bagCatalogue = new Catalogue<Bag>();
         Catalogue<Shoe> shoeCatalogue = new Catalogue<Shoe>();
 
@@ -49,6 +49,7 @@ namespace ProductCatalogue
                         if (userSelectedOptionForNewItem == 1)
                         {
                             newBag = CreateNewBagItem.CreateNewBag();
+                            //newBag = Bag.CreateNewBag();
                             Console.WriteLine($"\nNew bag product has been created: {newBag.ProductName}\n\n");
 
                             // NEED TO SAVE THIS DATA:

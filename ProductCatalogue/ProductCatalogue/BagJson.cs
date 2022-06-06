@@ -8,7 +8,5 @@ namespace ProductCatalogue
 {
     internal class BagJson
     {
-
-        public string 
     }
 }

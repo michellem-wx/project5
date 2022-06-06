@@ -15,6 +15,7 @@ namespace ProductCatalogue
         public string Colour;
 
 
+        // No need for the price parameter because it already knows its talking about the price property of the bag instance
         public virtual double CalculateTax()
         {
             return Math.Round((Price * 1.1),2 );    

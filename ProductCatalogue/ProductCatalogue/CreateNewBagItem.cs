@@ -11,11 +11,16 @@ namespace ProductCatalogue
         public static Bag CreateNewBag()
         {
             Console.WriteLine("== NEW BAG ITEM ==");
+            Console.WriteLine("TESTTTTTTTTTTTTTTTT");
+
             Console.WriteLine("Add in the product name:");
             string productName = Console.ReadLine();
 
             Console.WriteLine("Add in price (before tax):");
             double price = Convert.ToDouble(Console.ReadLine());
+
+            // Q. DO I NEED GET AND SET?!?
+            //Console.WriteLine(Bag.CalculateTax(price));
 
             Console.WriteLine("Add in brand name:");
             string brand = Console.ReadLine();
@@ -25,6 +30,11 @@ namespace ProductCatalogue
 
             Console.WriteLine("Add in category:");
             string category = Console.ReadLine();
+
+
+            // WHY?!?!?!
+            Console.WriteLine("Price after tax:");
+            Console.WriteLine(new Bag(productName, price, brand, colour, category).CalculateTax());
 
             return new Bag(productName, price, brand, colour, category);
 
